@@ -13,3 +13,4 @@ $ ./node-cli -f node-cli
 
 ## TODO
 
+- [ ] Make the file count by pass a folder using recursive function.
